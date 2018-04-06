@@ -1,1 +1,0 @@
-CREATE DATABASE itmo544db;
